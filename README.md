@@ -4,6 +4,8 @@ Working on [Turas.app](https://turas.app), we recently came across a need to gen
 
 The use case is sharing stories to platforms like Instagram and TikTok.
 
+![Sample](./e601388e1a79d52c763a4513959bb960.webm.mp4)
+
 To achieve this, we can use Playwright's built in recording mechanism; we just need to be able to build an API around it.
 
 We'll walk through creating this from scratch.
